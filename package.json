@@ -1,0 +1,14 @@
+{
+  "name": "nerio-vuetify-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CaoJiayuan",
+  "license": "MIT",
+  "dependencies": {
+    "nerio-js-utils": "^1.0.5"
+  }
+}
