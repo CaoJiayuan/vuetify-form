@@ -9,6 +9,7 @@
   "author": "CaoJiayuan",
   "license": "MIT",
   "dependencies": {
-    "nerio-js-utils": "^1.0.5"
+    "nerio-js-utils": "^1.0.5",
+    "sprintf": "^0.1.5"
   }
 }
